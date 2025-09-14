@@ -5,7 +5,7 @@ A structured Excel dashboard that manages inventory data, tracks stock, sales, a
 ---
 
 ## 📊 Dashboard Preview
-![Inventory Management Dashboard](assets/screenshot.png)
+![Inventory Management Dashboard](Screenshot (64).png)
 
 ---
 
@@ -21,8 +21,8 @@ A structured Excel dashboard that manages inventory data, tracks stock, sales, a
 
 | File Name | Description |
 |-----------|-------------|
-| `Inventory-Dashboard.xlsx` | Main Excel workbook with dashboard, data tables, and charts. |
-| `assets/screenshot.png` | Dashboard screenshot preview. |
+| `Inventory_Management_System.xlsx` | Main Excel workbook with dashboard, data tables, and charts. |
+| `Screenshot (64).png` | Dashboard screenshot preview. |
 
 ---
 
