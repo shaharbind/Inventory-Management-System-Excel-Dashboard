@@ -5,7 +5,7 @@ A structured Excel dashboard that manages inventory data, tracks stock, sales, a
 ---
 
 ## 📊 Dashboard Preview
-![Inventory Management Dashboard](Screenshot (64).png)
+![Inventory Management Dashboard](Screenshot%20(64).png)
 
 ---
 
