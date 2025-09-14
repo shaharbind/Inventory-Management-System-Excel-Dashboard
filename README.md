@@ -27,7 +27,7 @@ A structured Excel dashboard that manages inventory data, tracks stock, sales, a
 ---
 
 ## 🔧 How to Use
-1. Open `Inventory-Dashboard.xlsx` in Excel (2016 or later / Office 365).  
+1. Open `Inventory_Management_System.xlsx` in Excel (2016 or later / Office 365).  
 2. Update the **Products, Customers, Vendors, Purchases, and Sales** sheets.  
 3. Refresh PivotTables: **Data → Refresh All**.  
 4. Review the **Dashboard** sheet: KPI cards, reorder alerts, and visual summaries update automatically.  
